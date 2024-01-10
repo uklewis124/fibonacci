@@ -2,7 +2,7 @@
 A simple number generator for Fibbonacci
 
 ## How to use
-**1:** enter a number (the n'th time itll do the sequence) \n
+**1:** enter a number (the n'th time itll do the sequence)<br>
 **2:** print the result
 
 ## Example
