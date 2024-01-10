@@ -9,7 +9,7 @@ A simple number generator for Fibbonacci
 ```py
 import fib_gen
 
-print(fib_gen(5))
+print(fib_gen.fib(5))
 ```
 **Output:**
 ```md
