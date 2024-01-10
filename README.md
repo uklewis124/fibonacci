@@ -13,5 +13,5 @@ print(fib_gen(5))
 ```
 **Output:**
 ```md
-*3*
+3
 ```
